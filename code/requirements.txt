@@ -1,0 +1,7 @@
+mido
+basic-pitch
+python-rtmidi
+watchdog
+music21
+tensorflow
+ipdb

@@ -1,0 +1,13 @@
+0 1.00000 Unison;    
+1 1.06667 minor2nd;    
+2 1.12500 Major2nd;  
+3 1.20000 minor3rd;  
+4 1.25000 Major3rd;  
+5 1.33333 Perfect4th;
+6 1.40625 Tritone;     
+7 1.50000 Perfect5th;
+8 1.60000 minor6th;  
+9 1.66667 Major6th;  
+10 1.80000 minor7th;  
+11 1.87500 Major7th;   
+12 2.00000 Octave;    
